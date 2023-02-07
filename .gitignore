@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CarWashAPI/.vs
+/CarWashAPI/bin/Debug/net6.0
+/CarWashAPI/obj
+/CarWashAPI.Tests/bin
+/CarWashAPI.Tests/obj
+/CarWashApiFront/.vscode
+/CarWashApiFront/node_modules
